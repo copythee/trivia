@@ -1,0 +1,9 @@
+/.cljs_rhino_repl
+/figwheel_server.log
+/out
+/target
+/resources/public/js/compiled
+/.nrepl-port
+/.lein-repl-history
+/tmp.txt
+*~
