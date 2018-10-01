@@ -3,6 +3,6 @@
             [clojure.test :as t]))
 
 (t/deftest testing-add
-  ;; comment
+  ;; comment in de testomgeving
   (t/is (= (sut/add-numbers 1 2) 3)))
 
